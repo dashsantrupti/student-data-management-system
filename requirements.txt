@@ -1,0 +1,2 @@
+# No external libraries required
+# Uses built-in sqlite3 module
