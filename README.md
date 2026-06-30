@@ -39,9 +39,9 @@ student-data-management-system/
 - Improving problem-solving and analytical thinking
 
 ▶ How to Run
-git clone https://github.com/your-username/student-data-management-system.git
-cd student-data-management-system
-python main.py
+- git clone https://github.com/dashsantrupti/student-data-management-system.git
+- cd student-data-management-system
+- python main.py
 - Open in VS Code / PyCharm
 - Set up database using database.sql
 - Run main.py
