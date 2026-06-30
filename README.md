@@ -1,4 +1,4 @@
-🌐 Student Data Management System
+🌐 Student Data Management & Reporting System
 
 🧾 Overview
 This project is a Python and SQL-based system designed to manage structured records, perform basic data operations, and generate simple reports for analysis. It focuses on backend logic, database handling, and data processing fundamentals.
@@ -20,11 +20,10 @@ To build a simple and efficient system that demonstrates:
 🏗️ Project Structure
 student-data-management-system/
 │
-├── main.py                 # Main Python application file
-├── database.sql            # SQL file for database schema and sample data
-├── README.md               # Project documentation
-│
-└── requirements.txt        # Python dependencies
+├── main.py              # Main Python application file
+├── database.sql         # SQL schema and sample data
+├── README.md            # Project documentation
+└── requirements.txt     # Python dependencies (if any)
 
 🛠️ Tech Stack
 - Python (Core Logic & Backend Processing)
@@ -39,17 +38,18 @@ student-data-management-system/
 - Improving problem-solving and analytical thinking
 
 ▶ How to Run
-- Clone the repository
-- Open the project in any Python IDE (VS Code / PyCharm)
-- Set up the SQL database using the provided .sql file
-- Run the Python script to interact with the system
+git clone https://github.com/your-username/student-data-management-system.git
+cd student-data-management-system
+python main.py
+- Open in VS Code / PyCharm
+- Set up database using database.sql
+- Run main.py
 
 📫 Future Improvements
-- Add a graphical user interface (GUI) for better user experience
-- Implement authentication and role-based access control
-- Enhance reporting with charts and data visualization
-- Improve database optimization for large-scale data handling
-- Integrate API support for external data access
+- Add a simple graphical user interface (GUI)
+- Improve database optimization for larger datasets
+- Add better input validation and error handling
+- Enhance reporting features for better insights
 
 👤 Developed by Santrupti Dash
 
