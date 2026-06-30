@@ -18,6 +18,7 @@ To build a simple and efficient system that demonstrates:
 - Basic validation and structured data flow using Python
 
 🏗️ Project Structure
+
 student-data-management-system/
 │
 ├── main.py              # Main Python application file
