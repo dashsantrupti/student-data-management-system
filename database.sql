@@ -7,5 +7,9 @@ CREATE TABLE students (
 );
 
 -- Sample data for testing the system
-INSERT INTO students (name, course, marks) VALUES ('Aman', 'Python', 85);
-INSERT INTO students (name, course, marks) VALUES ('Riya', 'SQL', 90);
+INSERT INTO students (name, course, marks) VALUES
+('Aman Sharma', 'Python', 85),
+('Riya Patel', 'SQL', 90),
+('Arjun Singh', 'Java', 78),
+('Neha Gupta', 'Data Analytics', 92),
+('Rahul Verma', 'Web Development', 88);
