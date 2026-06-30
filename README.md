@@ -21,10 +21,10 @@ To build a simple and efficient system that demonstrates:
 
 student-data-management-system/
 │
-├── main.py              # Main Python application file
-├── database.sql         # SQL schema and sample data
-├── README.md            # Project documentation
-└── requirements.txt     # Python dependencies (if any)
+├── main.py
+├── database.sql
+├── README.md
+└── requirements.txt
 
 🛠️ Tech Stack
 - Python (Core Logic & Backend Processing)
